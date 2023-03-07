@@ -51,6 +51,7 @@ int main() {
         a1.emplace_back(cx(d1));
     }
     In.close();
+ 
     
     //bit reversal
     for(int i=0; i < int(a.size()); i++){
